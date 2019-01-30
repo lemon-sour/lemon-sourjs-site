@@ -28,8 +28,8 @@
   </section>
 </template>
 
-<script>
-import Logo from '~/components/Logo.vue'
+<script lang="ts">
+import Logo from '../components/Logo.vue'
 
 export default {
   components: {
